@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #333;
+  background-color: #EEE;
+}
+
+a {
+  color: currentColor;
+}
+
+/*# sourceMappingURL=main.css.map */

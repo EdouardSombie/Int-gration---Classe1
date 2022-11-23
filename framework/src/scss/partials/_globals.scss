@@ -1,0 +1,12 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	color: $text-color;
+	background-color: $background-color;
+}
+
+a{
+	color: currentColor;
+}
