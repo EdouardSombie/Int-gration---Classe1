@@ -1,0 +1,11 @@
+@function rem($pxVal){
+	$base: 16;
+	@return calc($pxVal / $base * 1rem);
+	//@return ($pxVal / $base) * 1rem;
+}
+
+@mixin cover-bg(){
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
