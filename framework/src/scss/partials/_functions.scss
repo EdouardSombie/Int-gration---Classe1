@@ -4,7 +4,7 @@
 	//@return ($pxVal / $base) * 1rem;
 }
 
-@mixin cover-bg(){
+@mixin cover-bg{
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
